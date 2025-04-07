@@ -1,0 +1,1 @@
+# Bcript-senha-criptografada
